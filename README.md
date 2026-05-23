@@ -82,10 +82,6 @@ TravelBuddy/
 |:----------------:|:---------------:|
 | ![Favorites](assets/screenshots/fav.jpeg) | ![Badge](assets/screenshots/myfav.jpeg) |
 
-> **Cara menambahkan screenshot:**
-> 1. Buat folder `screenshots/` di root project
-> 2. Simpan 6 foto dengan nama: `home.jpg`, `detail.jpg`, `search.jpg`, `search-result.jpg`, `favorites.jpg`, `badge.jpg`
-> 3. Push ke GitHub — gambar akan muncul otomatis di README
 
 ---
 
